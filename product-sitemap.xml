@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="httpsrukhsanasaleem.github.io/stethngo//main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rukhsanasaleem.github.io/stethngo//main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>httpsrukhsanasaleem.github.io/stethngo//shop/</loc>
+		<loc>https://rukhsanasaleem.github.io/stethngo//shop/</loc>
 		<lastmod>2023-01-22T20:51:16+00:00</lastmod>
 	</url>
 	<url>
-		<loc>httpsrukhsanasaleem.github.io/stethngo//product/steel-tube-clip/</loc>
+		<loc>https://rukhsanasaleem.github.io/stethngo//product/steel-tube-clip/</loc>
 		<lastmod>2023-01-22T19:48:38+00:00</lastmod>
 		<image:image>
-			<image:loc>httpsrukhsanasaleem.github.io/stethngo//wp-content/uploads/2023/01/Blue-Gold-Rustic-Artisinal-Remote-Graduation-Banner-mob-21.jpg</image:loc>
+			<image:loc>https://rukhsanasaleem.github.io/stethngo//wp-content/uploads/2023/01/Blue-Gold-Rustic-Artisinal-Remote-Graduation-Banner-mob-21.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>httpsrukhsanasaleem.github.io/stethngo//product/magnetic-stethoscope-holder/</loc>
+		<loc>https://rukhsanasaleem.github.io/stethngo//product/magnetic-stethoscope-holder/</loc>
 		<lastmod>2023-01-22T20:51:16+00:00</lastmod>
 		<image:image>
-			<image:loc>httpsrukhsanasaleem.github.io/stethngo//wp-content/uploads/2022/09/p-1.png</image:loc>
+			<image:loc>https://rukhsanasaleem.github.io/stethngo//wp-content/uploads/2022/09/p-1.png</image:loc>
 		</image:image>
 	</url>
 </urlset>

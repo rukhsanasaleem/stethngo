@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="httpsrukhsanasaleem.github.io/stethngo//main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://rukhsanasaleem.github.io/stethngo//main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>httpsrukhsanasaleem.github.io/stethngo//page-sitemap.xml</loc>
+		<loc>https://rukhsanasaleem.github.io/stethngo//page-sitemap.xml</loc>
 		<lastmod>2023-07-30T23:52:47+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>httpsrukhsanasaleem.github.io/stethngo//product-sitemap.xml</loc>
+		<loc>https://rukhsanasaleem.github.io/stethngo//product-sitemap.xml</loc>
 		<lastmod>2023-01-22T20:51:16+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>httpsrukhsanasaleem.github.io/stethngo//product_cat-sitemap.xml</loc>
+		<loc>https://rukhsanasaleem.github.io/stethngo//product_cat-sitemap.xml</loc>
 		<lastmod>2023-01-22T20:51:16+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
